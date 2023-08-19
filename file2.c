@@ -1,7 +1,8 @@
 #include "stdio.h"
 
 int main(){
-    printf("SIUUUUUUUUUUUU\n");
+
     printf("This is File 2.\n");
+    printf("bye bye\n.");
     return 0;
 }
